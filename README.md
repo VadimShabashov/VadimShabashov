@@ -27,6 +27,6 @@ Feel free to reach out:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VadimShabashov&theme=radical)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VadimShabashov&theme=radical)
 
-## LeetCode Stats
+## LeetCode
 
 [![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=nasekomysh&theme=dark)](https://leetcode.com/nasekomysh/)
