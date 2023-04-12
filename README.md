@@ -23,13 +23,14 @@ Feel free to reach me out:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=biggvladik&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=biggvladik&theme=solarized_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=biggvladik&theme=solarized_dark)
-
 ## Stats
 
-[![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=biggvladik&theme=dark)](https://leetcode.com/biggvladik/)
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VadimShabashov&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VadimShabashov&theme=solarized_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VadimShabashov&theme=solarized_dark)
+
+[![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=nasekomysh&theme=dark)](https://leetcode.com/nasekomysh/)
 
 
 <!--
