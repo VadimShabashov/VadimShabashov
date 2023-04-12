@@ -4,7 +4,7 @@ My name is Vadim, and I'm a CS master's student at ITMO University. I'm passiona
 
 <br />
 
-Feel free to reach me out:
+Feel free to reach out:
 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/vadimshabashov)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vadim-shabashov/)
@@ -23,14 +23,12 @@ Feel free to reach me out:
 
 ## GitHub Stats
 
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/VadimShabashov/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/VadimShabashov/github-readme-stats#gh-light-mode-only)
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VadimShabashov&theme=radical)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VadimShabashov&theme=radical)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VadimShabashov&theme=radical)
-
-<details>
-  <summary><b> ## GitHub Profile Stat</b></summary>
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=lauragift21&show_icons=true" />
-</details>
 
 ## LeetCode
 
