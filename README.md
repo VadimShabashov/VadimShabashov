@@ -2,6 +2,8 @@
 
 My name is Vadim, and I'm a CS master's student at ITMO University. I'm passionate about computer vision and algorithms.
 
+<b />
+
 Feel free to reach out:
 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/vadimshabashov)
