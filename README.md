@@ -23,14 +23,10 @@ Feel free to reach out:
 
 ## GitHub Stats
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=VadimShabashov&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/VadimShabashov/github-readme-stats#gh-dark-mode-only)
-
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=VadimShabashov&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/VadimShabashov/github-readme-stats#gh-light-mode-only)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VadimShabashov&theme=radical)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VadimShabashov&theme=radical)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VadimShabashov&theme=radical)
 
-## LeetCode
+## LeetCode Stats
 
 [![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=nasekomysh&theme=dark)](https://leetcode.com/nasekomysh/)
