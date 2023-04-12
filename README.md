@@ -1,16 +1,14 @@
-## Hi there 👋
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+there 👋)](https://git.io/typing-svg)
 
 My name is Vadim, and I'm a CS master's student at ITMO University.
+
 I'm passionate about computer vision, algorithms, and my guitar :guitar:
 
 Feel free to reach me out:
+
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/vadimshabashov)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vadim-shabashov/)
 [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:vadim.art.shabashov@gmail.com)
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+there,+I+am+Vadim!)](https://git.io/typing-svg)
-
 
 
 ## Languages and Tools:
