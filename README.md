@@ -2,7 +2,7 @@
 
 My name is Vadim, and I'm a CS master's student at ITMO University.
 
-    I'm passionate about computer vision, algorithms, and my guitar :guitar:
+I'm passionate about computer vision, algorithms, and my guitar :guitar:
 
 <br />
 
