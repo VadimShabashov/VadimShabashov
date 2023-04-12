@@ -29,9 +29,8 @@ Feel free to reach me out:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VadimShabashov&theme=radical)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VadimShabashov&theme=radical)
 
-**Expand to view**
 <details>
-  <summary><b>:zap: GitHub Profile Stat</b></summary>
+  <summary><b> ## GitHub Profile Stat</b></summary>
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=lauragift21&show_icons=true" />
 </details>
 
