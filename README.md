@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 
 
@@ -10,7 +10,7 @@
 
 
 
-**Languages and Tools:** 
+## Languages and Tools:
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -22,6 +22,9 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=biggvladik&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=biggvladik&theme=solarized_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=biggvladik&theme=solarized_dark)
 
+
+
+[![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=biggvladik&theme=dark)](https://leetcode.com/biggvladik/)
 
 
 <!--
