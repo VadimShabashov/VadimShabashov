@@ -1,6 +1,6 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&lines=Hi+there+👋)](https://git.io/typing-svg)
 
-My name is Vadim, and I'm a CS master's student at ITMO University. I'm passionate about computer vision and algorithms.
+My name is Vadim, and I'm an ML engineer at Yandex working on computer vision and natural language processing.
 
 <br />
 
